@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    border: 0em;
+    padding: 0em;
+}
+
+
+.banner{
+    background-color: black;
+    position: absolute;
+    width:100em;
+    height: 50em;
+    background-size: cover;
+    
+
+}
+.banner h1{
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.banner p {
+    color:aqua;
+    size: 50em;
+    left: 90em;
+}
